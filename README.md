@@ -9,8 +9,8 @@ Soy un entusiasta del código, siempre en busca de nuevas ideas y formas de hace
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🚀 Proyectos Destacados
-- [Proyecto l](https://github.com/tu-usuario-github/proyecto1): Descripción breve de tu proyecto.
-- [Proyecto 2](https://github.com/tu-usuario-github/proyecto2): Descripción breve de tu proyecto.
+- [Proyecto 1](https://github.com/tu-usuario-github/proyecto1): ................................
+- [Proyecto 2](https://github.com/tu-usuario-github/proyecto2): Descripción.....................
 
 ### 📫 Contacto
 - [LinkedIn](https://www.linkedin.com/in/tu-usuario-linkedin)
