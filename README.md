@@ -1,4 +1,4 @@
-# ¡Hola! Soy Wilmer Rodrigo 👋
+<h1 align="center"><b>¡Hola! Soy Wilmer Rodrigo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ### Sobre mí
 Soy un entusiasta del código, siempre en busca de nuevas ideas y formas de hacer que la tecnología sea más accesible. Disfruto creando proyectos que permiten que mi imaginación vuele y explore lo novedoso.
