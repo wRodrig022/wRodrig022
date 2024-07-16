@@ -4,52 +4,44 @@
 
 ### 🔧 Tecnologías y Herramientas
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-bootlogoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 ![html5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<h3>🚀 Proyectos Open source </h3>
+
+### 🚀 Proyectos Destacados
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
+      <td><b>📁 Projects</b></td>
+      <td><b>📚 Descripsion</b></td>
       <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+        <td><a href="https://github.com/wRodrig022/Libros-Gutendex-Api"><b>React PullToRefresh component</b></a></td>
+        <td><p>Implementación de un programa para la búsqueda de libros y listado según el titulo, autor, año y el idioma, con la Api Gutendex.</p></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/wRodrig022/Libros-Gutendex-Api?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+	    <tr>
+        <td><a href="https://github.com/wRodrig022/Conversor-de-Monedas-con-Exchangerate-Api"><b>Typescript & React Chrome Extension Starter</b></a></td>
+        <td><p>Conversor de Monedas desarrollado en Java que permite convertir diferentes divisas utilizando una API de tasas de cambio en tiempo real. Con este conversor, se pueden realizar solicitudes a la API, analizar la respuesta JSON, filtrar las monedas de interés y mostrar los resultados a los usuarios de manera clara y concisa.</p></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/wRodrig022/Conversor-de-Monedas-con-Exchangerate-Api?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
 
 ------------
-
-
-### 🚀 Proyectos Destacados
-- [Proyecto 1](https://github.com/tu-usuario-github/proyecto1): ................................
-- [Proyecto 2](https://github.com/tu-usuario-github/proyecto2): Descripción.....................
-
 ### 📫 Contacto
-- [LinkedIn](https://www.linkedin.com/in/tu-usuario-linkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario-github)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/in/soñador-hambriento-dev)
+
