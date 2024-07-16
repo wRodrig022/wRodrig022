@@ -15,17 +15,11 @@
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=wRodrig022&show_icons=true&theme=radical)
 
 ### 🚀 Proyectos Destacados
-- [Proyecto 1](https://github.com/tu-usuario-github/proyecto1): Descripción breve de tu proyecto.
+- [Proyecto l](https://github.com/tu-usuario-github/proyecto1): Descripción breve de tu proyecto.
 - [Proyecto 2](https://github.com/tu-usuario-github/proyecto2): Descripción breve de tu proyecto.
-
-### 📝 Últimos Blogs
-<!-- BLOG-POST-LIST:START -->
-- [Título del Blog 1](https://tu-blog.com/titulo-del-blog-1)
-- [Título del Blog 2](https://tu-blog.com/titulo-del-blog-2)
-<!-- BLOG-POST-LIST:END -->
 
 ### 📫 Contacto
 - [LinkedIn](https://www.linkedin.com/in/tu-usuario-linkedin)
