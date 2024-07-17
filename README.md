@@ -1,6 +1,13 @@
-<h1><b>¡Hola! Bienvenido a mi pagina. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p> Soy Wilmer, Desarrollador Backend, siempre en busca de nuevas ideas y formas de hacer que la tecnología sea más accesible. Disfruto creando proyectos que permiten que mi imaginación vuele y explore lo novedoso.
+<div>
+  <a href="https://github.com/wRodrig022">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wRodrig022&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wRodrig022&layout=compact&langs_count=16&theme=light"/>
+</div>
+	  
+<h3><b>¡Hola! Soy Wilmer. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
+<p>Desarrollador Backend, en busca de nuevas oportunidades y formas de hacer que la tecnología sea más accesible.
+Disfruto creando proyectos que permiten que mi imaginación vuele y explore lo novedoso. 🤯</p>
 
 ### 🔧 Tecnologías y Herramientas
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
@@ -15,30 +22,6 @@
 ![git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![html5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-
-### 🚀 Proyectos Destacados
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>📁 Proyectos </b></td>
-      <td><b>📚 Descripsión </b></td>
-      <td><b>⭐ Stars </b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td><a href="https://github.com/wRodrig022/Libros-Gutendex-Api"><b>Listado de Libros con Gutendex Api</b></a></td>
-        <td><p>Implementación de un programa para la búsqueda y listado de libros utilizando la API Gutendex. Este programa permitirá a los usuarios buscar libros según título, autor, año y idioma. Utilizaremos Java y Spring Boot para desarrollar un backend eficiente y escalable.</p></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/wRodrig022/Libros-Gutendex-Api?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	    <tr>
-        <td><a href="https://github.com/wRodrig022/Conversor-de-Monedas-con-Exchangerate-Api"><b>Conversor de Monedas con Exchangerate Api</b></a></td>
-        <td><p>Conversor de Monedas desarrollado en Java y Spring Boot para desarrollar un backend, permite convertir diferentes divisas utilizando una API de tasas de cambio en tiempo real. Con este conversor, se pueden realizar solicitudes a la API, analizar la respuesta JSON, filtrar las monedas de interés y mostrar los resultados.</p></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/wRodrig022/Conversor-de-Monedas-con-Exchangerate-Api?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
 
 ------------
 ### 📫 Contacto
