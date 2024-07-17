@@ -21,20 +21,20 @@
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>📁 Projects</b></td>
-      <td><b>📚 Descripsion</b></td>
-      <td><b>⭐ Stars</b></td>
+      <td><b>📁 Proyectos </b></td>
+      <td><b>📚 Descripsión </b></td>
+      <td><b>⭐ Stars </b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-        <td><a href="https://github.com/wRodrig022/Libros-Gutendex-Api"><b>React PullToRefresh component</b></a></td>
-        <td><p>Implementación de un programa para la búsqueda de libros y listado según el titulo, autor, año y el idioma, con la Api Gutendex.</p></td>
+        <td><a href="https://github.com/wRodrig022/Libros-Gutendex-Api"><b>Listado de Libros con Gutendex Api</b></a></td>
+        <td><p>Implementación de un programa para la búsqueda y listado de libros utilizando la API Gutendex. Este programa permitirá a los usuarios buscar libros según título, autor, año y idioma. Utilizaremos Java y Spring Boot para desarrollar un backend eficiente y escalable.</p></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/wRodrig022/Libros-Gutendex-Api?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	    <tr>
-        <td><a href="https://github.com/wRodrig022/Conversor-de-Monedas-con-Exchangerate-Api"><b>Typescript & React Chrome Extension Starter</b></a></td>
-        <td><p>Conversor de Monedas desarrollado en Java que permite convertir diferentes divisas utilizando una API de tasas de cambio en tiempo real. Con este conversor, se pueden realizar solicitudes a la API, analizar la respuesta JSON, filtrar las monedas de interés y mostrar los resultados a los usuarios de manera clara y concisa.</p></td>
+        <td><a href="https://github.com/wRodrig022/Conversor-de-Monedas-con-Exchangerate-Api"><b>Conversor de Monedas con Exchangerate Api</b></a></td>
+        <td><p>Conversor de Monedas desarrollado en Java y Spring Boot para desarrollar un backend, permite convertir diferentes divisas utilizando una API de tasas de cambio en tiempo real. Con este conversor, se pueden realizar solicitudes a la API, analizar la respuesta JSON, filtrar las monedas de interés y mostrar los resultados.</p></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/wRodrig022/Conversor-de-Monedas-con-Exchangerate-Api?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
